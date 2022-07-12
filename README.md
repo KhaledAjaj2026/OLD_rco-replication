@@ -1,4 +1,4 @@
-# RCO_replication
+# Replica Site of R+CO
 A frontend project, testing my ability in replicating existing UI designs. This project focuses on building and sharpening my styling skills by building the homepage for a professional website.
 ## Lessons Learned
 My first e-commerce storefront project. Really enjoyed testing out CSS features to find the most reasonable solutions to layout. Got to expand my knowledge in SASS by implementing nested selectors inside deeply nested HTML elements, such as lists and menus.
@@ -12,3 +12,5 @@ Needed to learn about specificity in order to properly style a long homepage wit
 This site was deployed using [github pages](https://pages.github.com/).
 
 This site was built using [React](https://reactjs.org/).
+
+This project is not associated with R+CO, or any of its affiliates, and was built for educational purposes only.
