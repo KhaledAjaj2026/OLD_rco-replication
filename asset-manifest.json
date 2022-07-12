@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RCO_replication/static/css/main.88dcfdce.css",
+    "main.js": "/RCO_replication/static/js/main.5cb148c0.js",
+    "static/js/787.fb362614.chunk.js": "/RCO_replication/static/js/787.fb362614.chunk.js",
+    "index.html": "/RCO_replication/index.html",
+    "main.88dcfdce.css.map": "/RCO_replication/static/css/main.88dcfdce.css.map",
+    "main.5cb148c0.js.map": "/RCO_replication/static/js/main.5cb148c0.js.map",
+    "787.fb362614.chunk.js.map": "/RCO_replication/static/js/787.fb362614.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88dcfdce.css",
+    "static/js/main.5cb148c0.js"
+  ]
+}
