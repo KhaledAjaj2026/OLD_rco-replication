@@ -13,4 +13,4 @@ This site was deployed using [github pages](https://pages.github.com/).
 
 This site was built using [React](https://reactjs.org/).
 
-This project is not associated with R+CO, or any of its affiliates, and was built for educational purposes only.
+This project is not associated with R+CO or any of its affiliates, and was built for educational purposes only.
